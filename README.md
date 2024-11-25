@@ -19,6 +19,8 @@ Entusiasta de la tecnología para construir soluciones innovadoras.
 * **Instagram:** [https://www.instagram.com/veroolira]
 * **Portfolio:** [https://www.github.com/veroolira]
 
+### Se habla español, inglés y francés
+
 ###  ⚡ Fun fact
 
 Purista del desayuno y el café por la mañana.
