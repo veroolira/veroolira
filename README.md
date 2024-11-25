@@ -4,6 +4,7 @@
 ## #WomanInTech
 
 **Desarrolladora Full Stack** apasionada por crear experiencias digitales. ⚡
+![Animación](veroolira/codinMonke.webp)
 
 ### 💬Acerca de mí
 
