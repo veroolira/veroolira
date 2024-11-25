@@ -16,7 +16,7 @@ Entusiasta de la tecnología para construir soluciones innovadoras.
 ###  📫 Conéctate conmigo
 
 * **LinkedIn:** [https://www.linkedin.com/in/veroolira/]
-* **Instagram:** [@veroolira]
+* **Instagram:** [https://www.instagram.com/veroolira]
 * **Portfolio:** [github.com/veroolira]
 
 ###  ⚡ Fun fact
