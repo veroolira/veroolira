@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 ¡Hola! 👋
 
-<!--
-**veroolira/veroolira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ‍ **[Soy Verónica Lira]**
 
-Here are some ideas to get you started:
+![AnalyzeThis](<iframe src="https://giphy.com/embed/MT5UUV1d4CXE2A37Dg" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-MT5UUV1d4CXE2A37Dg">via GIPHY</a></p>)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Desarrolladora Full Stack** apasionada por crear experiencias digitales. ⚡
+
+### 💬Acerca de mí
+
+Entusiasta de la tecnología para construir soluciones innovadoras. 
+
+**Tecnologías:** JavaScript, React, Node.js, Html
+
+###  Echa un vistazo a los proyectos
+
+###  📫 Conéctate conmigo
+
+* **LinkedIn:** [https://www.linkedin.com/in/veroolira/]
+* **Instagram:** [@veroolira]
+* **Portfolio:** [github.com/veroolira]
+
+###  ⚡ Fun fact
+
+Purista del desayuno y el café por la mañana.
+
+
