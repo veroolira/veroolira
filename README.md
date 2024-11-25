@@ -4,7 +4,6 @@
 ## #WomanInTech
 
 **Desarrolladora Full Stack** apasionada por crear experiencias digitales. ⚡
-![Animación](veroolira/codinMonke.webp)
 
 ### 💬Acerca de mí
 
@@ -20,7 +19,7 @@ Entusiasta de la tecnología para construir soluciones innovadoras.
 * **Instagram:** [https://www.instagram.com/veroolira]
 * **Portfolio:** [https://www.github.com/veroolira]
 
-### Se habla español, inglés y francés
+**Se habla español, inglés y francés**
 
 ###  ⚡ Fun fact
 
